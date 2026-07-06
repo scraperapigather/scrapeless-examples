@@ -1,0 +1,13 @@
+node_modules/
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+dist/
+
+# SDK runtime scratch
+logs/
+storage/
+response.*

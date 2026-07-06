@@ -1,0 +1,11 @@
+{
+  "name": "scrapeless-examples",
+  "private": true,
+  "type": "module",
+  "description": "Official runnable examples for the Scrapeless API (Scraping Browser, Universal Scraping API, Crawl, LLM Chat Scraper).",
+  "dependencies": {
+    "@scrapeless-ai/sdk": "latest",
+    "playwright-core": "^1.61.1",
+    "puppeteer-core": "^25.3.0"
+  }
+}
